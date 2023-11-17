@@ -1,0 +1,11 @@
+{
+  "welcome": "Willkommen",
+  "invalid_email": "Ungültige E-Mail-Adresse",
+  "required": "Feld Verpflichtend",
+  "fields": {
+    "email": "E-Mail",
+    "subject": "Betreff",
+    "content": "Content"
+  },
+  "coming_soon": "Bald Verfügbar"
+}
