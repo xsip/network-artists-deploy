@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "invalid_email": "Please enter a valid E-Mail-Address",
+  "required": "Field Required",
+  "fields": {
+    "email": "E-Mail",
+    "subject": "Subject",
+    "content": "Content"
+  },
+  "contact": "Contact",
+  "coming_soon": "Coming soon"
+}
